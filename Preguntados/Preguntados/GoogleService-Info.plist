@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973430041726-8eqtjbd3gg1jbg6on7m47llv2he1qd8j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973430041726-8eqtjbd3gg1jbg6on7m47llv2he1qd8j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCiJ3RSrYkZMBSo_buG3CuoeB7bid_zmjo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973430041726</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gorkymunoz.Preguntados</string>
+	<key>PROJECT_ID</key>
+	<string>preguntados-6df90</string>
+	<key>STORAGE_BUCKET</key>
+	<string>preguntados-6df90.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973430041726:ios:93e2c5817e28f80da4bc2f</string>
+	<key>DATABASE_URL</key>
+	<string>https://preguntados-6df90.firebaseio.com</string>
+</dict>
+</plist>
